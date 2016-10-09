@@ -52,7 +52,7 @@ def dibujar(funcion, vi,vectorx,vectory):
 
 
 print (" Metodo de Newton-Raphson\n")
-while True:git
+while True:
     vectorx = zeros(100, float)
     vectory = zeros(100, float)
 
